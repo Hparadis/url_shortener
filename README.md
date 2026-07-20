@@ -1,4 +1,4 @@
-# URL Shortener
+# URL Shortener(LEARNING PROJECT)
 
 A simple full-stack URL shortener built with:
 
